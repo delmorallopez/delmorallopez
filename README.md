@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**delmorallopez/delmorallopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Full-Stack Developer
 
 I'm a passionate and motivated aspiring Software Engineer currently working as an IT Support Engineer.
 I enjoy solving problems, learning new technologies, and building full stack applications.
@@ -34,4 +31,3 @@ Land a Junior Software Engineering role
 Contribute to open source projects
 Continue growing as a developer every day
 
--->
