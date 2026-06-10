@@ -3,8 +3,7 @@
 I'm a passionate and motivated aspiring Software Engineer currently working as an IT Support Engineer.
 I enjoy solving problems, learning new technologies, and building full stack applications.
 
--  I’m currently working as an IT Support Engineer
--  I’m currently learning JavaScript, Python, PostgreSQL, SQLAlchemy, and more
+-  I’m currently working with JavaScript, Typescript, Python, React, PostgreSQL, SQLAlchemy, and more
 -  I’m looking for a Junior Software Engineering role to further develop my technical expertise
 -  I’m looking for help with improving my backend development skills and best coding practices
 -  Ask me about tech, learning to code, or transitioning into software engineering
@@ -49,6 +48,7 @@ Built a full-stack multiplayer game with real-time game flow and state managemen
 - Managed server-side logic using Node.js and event-driven architecture
 
 ## Currently Working On
+- Maintaining and iterating on Recial, a live production app built for a real client
 - Improving my full stack development skills
 - Building personal projects
 - Preparing for Junior Software Engineering opportunities
