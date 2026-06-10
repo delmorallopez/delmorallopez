@@ -21,6 +21,14 @@ Tools: Git, GitHub, VS Code
 
 # Projects Showcase 
 
+# Recial UCO Traceability System
+Built a full-stack production application for a real business, tracking used cooking oil collection and recycling supply chains
+- Designed a REST API with JWT authentication and role-based access control (Admin/Manager/Driver) using FastAPI and PostgreSQL
+- Implemented full CRUD operations across suppliers, receipts, entrances, dispatches and tanks, with a React/TypeScript frontend
+- Generated automated business reports including quarterly closings, mass balance sheets and collection PDFs using openpyxl and reportlab
+- Deployed to production using Docker, nginx and Coolify with multi-stage builds — the app is live and used by a real client
+- Owned the project end-to-end: from requirements and data modelling through to deployment and ongoing support
+
 # CV Matching Game
 Built a full-stack multiplayer game with real-time game flow and state management
 - Designed REST APIs using FastAPI and managed data with PostgreSQL & SQLAlchemy
